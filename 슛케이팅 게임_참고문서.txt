@@ -1,2 +1,4 @@
 팀0621 - 슛케이팅 게임 (박세연, 서영수)
 
+'.fbx'파일 애니메이션 -> 언리얼 엔진에서 구현하는 법
+https://www.youtube.com/watch?v=92rag3qStI4
